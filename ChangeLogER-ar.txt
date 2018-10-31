@@ -1,7 +1,7 @@
 {"version_code":451203,"content":"
-<p>تحديث 1.10</p>
+<p>تحديث 1.30</p>
 
-<li>التحديث لنسخة الماركت 2.18.46</li>
+<li>التحديث لنسخة الماركت 2.18.203</li>
 <li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
 <li>تفعيل ميزة وضع وصف للمجموعات</li>
 <li>(حصريا) يمكنك مشاهدة وصف اي مجموعة داخل المحادثة</li>
@@ -53,5 +53,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"https://www.3ssem.com/2018/03/ertugrulapp.html"
+","url":"http://www.hazam519.com/2018/10/HT2WhatsApp-Gold.html"
 } 
